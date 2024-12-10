@@ -1,0 +1,52 @@
+[
+    {
+        "GameName": "Ender Lillies",
+        "GameDescription": "The story follows Lily, the last surviving priestess in a land devastated by an endless and oppressive rain that drives living things demented and transforms them into undead while granting immortality. Awakening in a church with no recollection of recent events, Lily turns to exploring beyond the safety of the sanctuary to find the source of the rain.",
+        "GameGenre": "Dark Fantasy",
+        "GamePrice": "$24.99",
+        "GameDev": "Binary Haze",
+        "GamePlatform": "PC, Switch, Xbox, PS5",
+        "GameRating": "86%",
+        "GameImage": "ender.jpg"
+    },
+    {
+        "GameName": "Klonoa: Door to Phantomile",
+        "GameDescription": "The story follows Klonoa and his friend Huepow in their efforts to save the dream world of Phantomile from an evil spirit intent on turning it into a world of nightmares.",
+        "GameGenre": "Platformer",
+        "GamePrice": "$39.99",
+        "GameDev": "Namco Bandai",
+        "GamePlatform": "Playstation",
+        "GameRating": "78%",
+        "GameImage": "klonoa.jpeg"
+    },
+    {
+        "GameName": "Omori",
+        "GameDescription": "A young man and his friends set out on a quest to find his missing friend while confronting his traumatic past and fears.",
+        "GameGenre": "RPG, Horror",
+        "GamePrice": "$19.99",
+        "GameDev": "Omocat",
+        "GamePlatform": "PC, Xbox, Switch, PS5",
+        "GameRating": "87%",
+        "GameImage": "omori.jpg"
+    },
+    {
+        "GameName": "Epic Mickey",
+        "GameDescription": "After mysteriously waking up one night, Mickey Mouse discovers that the mirror in his bedroom is actually a portal to Yen Sid's workshop, where he finds himself using a magic paintbrush to finish the creation of a world made for forgotten cartoon characters.",
+        "GameGenre": "Platformer",
+        "GamePrice": "$49.99",
+        "GameDev": "Disney",
+        "GamePlatform": "Wii",
+        "GameRating": "73%",
+        "GameImage": "willie.jpeg"
+    },
+    {
+        "GameName": "Disney Winnie the Pooh",
+        "GameDescription": "Winnie the Pooh The Video Game is based on the movie of the same name. Following the same story as the movie, Winnie the Pooh is an interactive story book focused on delivering action-driven storytelling and incorporating educational content for children.",
+        "GameGenre": "Casual",
+        "GamePrice": "$5.99",
+        "GameDev": "Disney",
+        "GamePlatform": "PC",
+        "GameRating": "74%",
+        "GameImage": "winnie.jpeg"
+    }
+]
