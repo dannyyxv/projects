@@ -7,7 +7,7 @@
         "GameDev": "Binary Haze",
         "GamePlatform": "PC, Switch, Xbox, PS5",
         "GameRating": "86%",
-        "GameImage": "ender.jpg"
+        "GameImage": "https://github.com/dannyyxv/projects/blob/main/ender.jpg"
     },
     {
         "GameName": "Klonoa: Door to Phantomile",
@@ -17,7 +17,7 @@
         "GameDev": "Namco Bandai",
         "GamePlatform": "Playstation",
         "GameRating": "78%",
-        "GameImage": "klonoa.jpeg"
+        "GameImage": "https://github.com/dannyyxv/projects/blob/main/klonoa.jpeg"
     },
     {
         "GameName": "Omori",
@@ -27,7 +27,7 @@
         "GameDev": "Omocat",
         "GamePlatform": "PC, Xbox, Switch, PS5",
         "GameRating": "87%",
-        "GameImage": "omori.jpg"
+        "GameImage": "https://github.com/dannyyxv/projects/blob/main/omori.jpg"
     },
     {
         "GameName": "Epic Mickey",
@@ -37,7 +37,7 @@
         "GameDev": "Disney",
         "GamePlatform": "Wii",
         "GameRating": "73%",
-        "GameImage": "willie.jpeg"
+        "GameImage": "https://github.com/dannyyxv/projects/blob/main/willie.jpeg"
     },
     {
         "GameName": "Disney Winnie the Pooh",
@@ -47,6 +47,56 @@
         "GameDev": "Disney",
         "GamePlatform": "PC",
         "GameRating": "74%",
-        "GameImage": "winnie.jpeg"
+        "GameImage": "https://github.com/dannyyxv/projects/blob/main/winnie.jpeg"
+    },
+    {
+        "GameName": "Hollow Knight",
+        "GameDescription": "An epic action-adventure through a vast, ruined kingdom of insects and heroes. Explore twisting caverns, ancient cities, and deadly wastes while unraveling ancient mysteries.",
+        "GameGenre": "Metroidvania",
+        "GamePrice": "$14.99",
+        "GameDev": "Team Cherry",
+        "GamePlatform": "PC, Switch, PS4, Xbox",
+        "GameRating": "90%",
+        "GameImage": "https://github.com/dannyyxv/projects/blob/main/hollow_knight.jpg"
+    },
+    {
+        "GameName": "Celeste",
+        "GameDescription": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain in this super-tight platformer.",
+        "GameGenre": "Platformer",
+        "GamePrice": "$19.99",
+        "GameDev": "Maddy Makes Games",
+        "GamePlatform": "PC, Switch, PS4, Xbox",
+        "GameRating": "94%",
+        "GameImage": "https://github.com/dannyyxv/projects/blob/main/celeste.jpg"
+    },
+    {
+        "GameName": "The Legend of Zelda: Breath of the Wild",
+        "GameDescription": "Step into a world of discovery, exploration, and adventure in The Legend of Zelda: Breath of the Wild, a boundary-breaking new game in the acclaimed series.",
+        "GameGenre": "Action-Adventure",
+        "GamePrice": "$59.99",
+        "GameDev": "Nintendo",
+        "GamePlatform": "Switch, Wii U",
+        "GameRating": "97%",
+        "GameImage": "https://github.com/dannyyxv/projects/blob/main/breath_of_the_wild.jpg"
+    },
+    {
+        "GameName": "Stardew Valley",
+        "GameDescription": "You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life.",
+        "GameGenre": "Simulation",
+        "GamePrice": "$14.99",
+        "GameDev": "ConcernedApe",
+        "GamePlatform": "PC, Switch, PS4, Xbox, Mobile",
+        "GameRating": "91%",
+        "GameImage": "https://github.com/dannyyxv/projects/blob/main/stardew_valley.jpg"
+    },
+    {
+        "GameName": "Undertale",
+        "GameDescription": "The RPG where you don't have to destroy anyone. Explore an underground world of monsters and make choices that determine your fate.",
+        "GameGenre": "RPG",
+        "GamePrice": "$9.99",
+        "GameDev": "Toby Fox",
+        "GamePlatform": "PC, Switch, PS4, Xbox",
+        "GameRating": "92%",
+        "GameImage": "https://github.com/dannyyxv/projects/blob/main/undertale.jpg"
     }
 ]
